@@ -5,6 +5,7 @@
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
+import '../css/Button.css';
 
 class Button extends React.Component{
     render(){
