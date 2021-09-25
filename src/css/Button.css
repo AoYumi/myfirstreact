@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 25, 2021, 11:29:14 AM
+    Author     : user
+*/
+
+
+.sample-button{
+  background-image: url('https://pbs.twimg.com/media/E-NCWoiVEAESy8d?format=jpg&name=4096x4096');
+  position : center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
+}
