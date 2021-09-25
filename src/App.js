@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Yamete Kudasai nii-sama~~ amazing
+          Yamete Kudasai nii-sama~~ kakkoi
         </a>
       </header>
     </div>
